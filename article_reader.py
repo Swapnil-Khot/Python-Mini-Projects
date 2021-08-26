@@ -1,7 +1,7 @@
 from newspaper import Article
 import pyttsx3
 
-article = Article("https://arunachaltimes.in/index.php/2021/08/11/nes-gives-away-academic-excellence-awards-scholarships/")
+article = Article("https://myriadsofmiscellaneousthoughts.in/2021/05/15/the-art-of-sarcasm/")
 article.download()
 article.parse()
 
