@@ -11,3 +11,5 @@ Dice : This is a Simple project in which dice is created. Like dice randomly and
 
 Email Slicer : This is an Email Slicer Program In which it will seperate username with domain name.
                https://github.com/Swapnil-Khot/Python-Mini-Projects/blob/main/email_slicer.py
+Guess The Number : Program will choose the number and it will tell user to guess the chosen number. If user is wrong it will give hints.
+                   https://github.com/Swapnil-Khot/Python-Mini-Projects/blob/main/guess_number.py
